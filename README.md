@@ -1,5 +1,5 @@
 <!-- Hi there! Feel free to make this your own but don't use my data. Attributions are welcomed --> 
-<h3>Hi! 👋<br>I'm Noé Durón<br>a Web Developer & Quality Analist on AB Inbev Group</h3>
+<h3>Hi! 👋<br>I'm Noé Durón<br>a Web Developer Freelancer & Quality Analist on AB Inbev Group</h3>
 <h6>I build websites, and digital stores.<br>I have 2 years of tech experience, creating sites, content and solutons.<br>Do you have a project or need a modern website? Then ↴<br>Contact me on Direct Message</h6>
 
 <h4> <a href="https://stephenajulu.com/links">Links</a> • <a href="https://stephenajulu.com">Website</a> • <a href="https://stephenajulu.com/blog">Blog</a> • <a href="https://stephenajulu.com/store">Store</a> • <a href="https://www.paypal.com/donate/?hosted_button_id=SLNMRAJ59LRC8">Donate</a> • <a href="https://stephenajulu.substack.com">Newsletter</a></h4>
