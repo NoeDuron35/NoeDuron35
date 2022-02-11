@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NoeDuron35
+- 👀 I’m interested in dubstep and drum and bass music
+- 🌱 I’m currently learning python in Launch X camp
+- 💞️ I’m looking to collaborate on any inc that trust in me
+- 📫 How to reach me: send me a DM
