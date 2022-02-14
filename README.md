@@ -4,8 +4,8 @@
 
 <h6>I am that boy who always likes to learn something new, who learns by doing the project, who helps those who have less experienc, when i have the experience. <br>
 I was born and grow up in Aguascalientes,MX. My father was a CNC programmer, so my life was involved in programming since i helped my father with his job when i was in high school. <br>
-Then i cursed on the CBTis 168 the tecnical carrer: Mechatronic, where i learned c # programming, Solid Works, electrical circuits, digital circuits, neumatic circuits, hydraulic circuits.<br>
-I coursed E-Commerce on Autonomous University of Aguascalientes, getting the title in Jan '22, on those time i coursed diversed courses of Google, focused on E-Marketing</h6>
+Then i cursed on the CBTis 168 the tecnical carrer: Mechatronic, where i learned c # programming, Solid Works, electric circuits, electronic circuits, digital circuits, neumatic circuits, hydraulic circuits.<br>
+I coursed E-Commerce on Autonomous University of Aguascalientes, getting the title in Jan '22, on those time i coursed diversed courses of Google, focused on E-Marketing and web development</h6>
 <h6></h6
 
 <h6>I have basic experiencie in Python & JS, and normal experiencie in HTML and CSS, Actually i'm on a Dev Camp of Microsoft called Launxh X, that teach: Python, Java, JS, Ruby programming for transform us in full stack programmers. </h6>
